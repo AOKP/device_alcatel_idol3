@@ -1,2 +1,2 @@
-add_lunch_combo lineage_idol3-eng
-add_lunch_combo lineage_idol3-userdebug
+add_lunch_combo aokp_idol3-eng
+add_lunch_combo aokp_idol3-userdebug
